@@ -1,6 +1,5 @@
 # Rebase Workshop
 
-Eric is soooooooò æwesome.
 
 CONTENTS OF THIS FILE
 ---------------------
