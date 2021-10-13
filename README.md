@@ -1,6 +1,6 @@
 # Rebase Workshop
 
-
+CONTENTS OF THIS FILE
 ---------------------
 
  * Introduction
